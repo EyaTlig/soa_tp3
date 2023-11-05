@@ -1,0 +1,15 @@
+<html>
+    <body>
+        <h1>Liste des comptes</h1>
+        <table border="1">
+            <tr>
+                <th>Code</th><th>Solde</th><th>Date de Creation</th>
+            </tr>
+            <tr>
+                <td>1234</td><td>5023</td><td>21/12/2014</td>
+            </tr>
+        </table>
+        <h2>Somme totale des soldes : 9587.970000000001</h2>
+        <h2>Somme totale des soldes des comptes crees apres 2000 : 5023</h2>
+    </body>
+</html>

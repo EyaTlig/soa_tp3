@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<banque>
+    <comptes>
+        <compte>
+            <code>1234</code>
+            <solde>5023</solde>
+            <dateCreation>21/12/2014</dateCreation>
+        </compte>
+        <compte>
+            <code>1598</code>
+            <solde>264</solde>
+            <dateCreation>29/8/2000</dateCreation>
+        </compte>
+        <compte>
+            <code>4687</code>
+            <solde>4300.97</solde>
+            <dateCreation>20/2/2015</dateCreation>
+        </compte>
+    </comptes>
+</banque>
